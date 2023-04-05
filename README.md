@@ -47,7 +47,7 @@ pip install -e .
 Model are in google drive, to view:
 
 ```model
-https://drive.google.com/drive/u/0/folders/14C3xykU_HbXUFv_akJ2uVD-sgX75gi4m
+https://drive.google.com/file/d/1IGxTKDwQX5o3-C6ttZNJwt5j2Sbvjtk1/view?usp=share_link
 ```
 
 ### Image Captioning
