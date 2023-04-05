@@ -79,10 +79,11 @@ print("res: {}".format(res))
 #['rooster in oriental armor pattern, kung fu style, intricate, high resolution, art style, kirby, kirby art,']
 ```
 
-```## Contact us
+## Contact us
 
 If you have any questions, comments or suggestions, please do not hesitate to contact us at 976650543@qq.com.
 
 ## License
 
 [BSD 3-Clause License](LICENSE.txt)
+
